@@ -8,6 +8,4 @@
   
 设置环境变量   
 
-在cmd模式下查看，出现以下信息证明安装成功
-
 Should you have any questions, please feel free to let us know      952835607@qq.com
